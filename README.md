@@ -1,6 +1,6 @@
 # fate-explanation
 
-Replication package. Paper DOI: **PENDING** (backfilled after publish).
+Replication package. Paper DOI: [10.5281/zenodo.23201747](https://doi.org/10.5281/zenodo.23201747) (backfilled after publish).
 
 **File ↔ section map**
 
